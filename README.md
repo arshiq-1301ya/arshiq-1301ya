@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **arshiq-1301ya/arshiq-1301ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi 👋, I'm Arshiq
 
@@ -26,9 +24,9 @@ HTML • CSS • JavaScript • Python • C
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshiqkhan732-a11y&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshiq-1301ya&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiqkhan732-a11y&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiq-1301yay&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
 
@@ -42,5 +40,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...M
--->
+- ⚡ Fun fact: .

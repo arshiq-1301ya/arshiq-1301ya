@@ -31,6 +31,7 @@
 * ♟️ Chess Board (HTML & CSS)
 * 🎲 Ludo Board (HTML & CSS)
 * 🎵 Spotify Clone
+* 🎓 myCollege Website(HTML & CSS)
 
 ---
 
